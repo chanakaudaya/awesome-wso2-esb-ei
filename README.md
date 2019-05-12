@@ -21,19 +21,57 @@ This repository contains resources on WSO2 ESB and EI. The resources are categor
 
 
 ## Deployment Patterns
+- [WSO2 EI Deployment Patterns](https://www.slideshare.net/wso2.org/wso2-enterprise-integrator-deployment-patterns)
+- [WSO2 EI in kubernetes](https://medium.com/@tienshiching/wso2-enterprise-integrator-6-3-0-in-an-aws-kubernetes-cluster-d0e3a6e2c042)
+- [WSO2 EI Deployment Patterns webinar](https://wso2.com/library/webinars/2018/04/deployment-patterns-in-wso2-enterprise-integrator/)
 
 ## Enterprise Integrator Profiles
 ### Integration profile (formerly known as ESB and DSS)
 #### Transports
+- [WSO2 EI/ESB Transports reference](https://docs.wso2.com/display/EI640/ESB+Transports)
+- [Understanding WSO2 ESB Passthrough transport-1](https://wso2.com/library/articles/2013/12/demystifying-wso2-esb-pass-through-transport-part-i/)
+- [Understanding WSO2 ESB Passthrough transport-2](https://wso2.com/library/articles/2013/12/demystifying-wso2-esb-pass-thru-transport-part-ii/)
+- [Understanding WSO2 ESB Passthrough transport-3](https://wso2.com/library/articles/2014/04/demystifying-wso2-esb-pass-through-transport-part-iii/)
+- [Learning WSO2 ESB Passthrough transport](http://soatutorials.blogspot.com/2015/05/understanding-wso2-esb-pass-through.html)
+- [WSO2 ESB Passthrough transport in nutshell](https://medium.com/@chanakaudaya/wso2-esb-passthrough-transport-in-a-nutshell-42d1cb7dc71)
+- [Introduction to WSO2 ESB Passthrough transport](https://www.slideshare.net/chanakaudaya/introduction-to-wso2-esb-passthrough-transport)
+- [Writing a custom transport in WSO2 ESB-1](http://soatutorials.blogspot.com/2015/06/extending-wso2-esb-with-custom.html)
+- [Writing a custom transport in WSO2 ESB-2](http://soatutorials.blogspot.com/2015/06/extending-wso2-esb-with-custom_21.html)
+
 #### Inbound endpoints
+- [Inbound endpoints architecture](https://docs.wso2.com/display/EI640/Working+with+Inbound+Endpoints)
+- [Introduction to inbound endpoints](https://www.slideshare.net/wso2.org/introduction-to-inbound-endpoints-in-wso2-esb-490-https-file-jms)
+- [Understanding inbound endpoints](http://rajjazhm.blogspot.com/2015/08/getting-started-with-simple-wso2-esb.html)
+
 #### Mediators
+- [ESB Mediator catalogue](https://docs.wso2.com/display/EI640/ESB+Mediators)
+- [Writing a class mediator](http://soatutorials.blogspot.com/2013/08/10-minute-tutorial-for-extending-wso2.html)
+- [Tips on writing a class mediator](https://medium.com/@nirothipanram/esb-few-tips-in-writing-a-custom-class-mediator-b9a322f4eaa8)
+
 #### Connectors
-#### Scheduled Tasks
-#### Services (Proxy, Data and APIs)
-### Message Broker profile
-### Business Process profile
-### Microservices profile
-### Analytics profile
+- [WSO2 Connector Store](https://store.wso2.com/store/assets/esbconnector/list)
+- [How to write a connector for WSO2 ESB/EI](https://wso2.com/library/articles/2014/02/how-to-write-a-esb-connector/)
+- [WSO2 ESB/EI Connector documentation](https://docs.wso2.com/display/ESBCONNECTORS/WSO2+ESB+Connectors)
+
+#### Data Services
+- [Data services concepts and features](https://docs.wso2.com/display/DSS351/Key+Concepts+and+Features)
+- [Data services architecture](https://docs.wso2.com/display/DSS351/Architecture)
+- [Quick start guide](https://docs.wso2.com/display/DSS351/Quick+Start+Guide)
+- [Data services tutorials](https://docs.wso2.com/display/EI640/Working+with+Data+Services)
+
+## Deployment automation and CI/CD
+- [Building a CI/CD process for WSO2 EI](https://medium.com/wso2-learning/how-to-build-a-ci-cd-pipeline-for-wso2-esb-wso2-ei-1f7ba3cc833d)
+- [Continous integration in WSO2 Integration cloud](https://docs.wso2.com/display/IntegrationCloud/Implement+Continuous+Integration+and+Deployment+with+Jenkins)
+
+## Configuration Management and Containerization
+- [Docker resources](https://github.com/wso2/docker-ei)
+- [Kubernetes resources](https://github.com/wso2/kubernetes-ei)
+- [Puppet resources](https://github.com/wso2/puppet-ei)
+- [Ansible resources](https://github.com/wso2/ansible-ei)
+- [Vagrant resources](https://github.com/wso2/vagrant-ei)
+- [AWS Cloud Formation resources](https://github.com/wso2/aws-ei)
+- [Pivotal Cloud Foundry resources](https://github.com/wso2/pivotal-cf-ei)
+- [Mesos DCOS resources](https://github.com/wso2/dcos-ei)
 
 ## EI performance
 
