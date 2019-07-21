@@ -74,5 +74,11 @@ This repository contains resources on WSO2 ESB and EI. The resources are categor
 - [Mesos DCOS resources](https://github.com/wso2/dcos-ei)
 
 ## EI performance
+- [WSO2 EI performance test scripts](https://github.com/wso2/performance-ei)
+- [WSO2 EI performance monitoring with App Dynamics](https://medium.com/@thejanrupasinghe/wso2-enterprise-integrator-performance-monitoring-with-appdynamics-141c5d65fd88)
+- [Performance tuning WSO2 ESB with a practical example](http://soatutorials.blogspot.com/2015/05/performance-tuning-wso2-esb-with.html)
+- [WSO2 EI performance benchmark results (specific branch)](https://github.com/wso2/product-ei/blob/performance-test-101-2019-06-18_08-28-46/performance/benchmarks/summary.md)
 
 ## EI Developer tooling
+- [WSO2 Integration Studio (new release - Q2 2019)](https://wso2.com/integration/integration-studio/)
+
